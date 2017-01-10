@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dataset>
+
+    <sample _id="1" name="foo" />
+    <sample _id="2" name="bar" />
+    
+</dataset>

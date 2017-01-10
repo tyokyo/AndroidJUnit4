@@ -1,0 +1,12 @@
+.classpath
+.project
+.settings/
+
+target/
+
+gen/
+bin/
+libs/
+
+!libs/dexmaker-20120622.jar
+
